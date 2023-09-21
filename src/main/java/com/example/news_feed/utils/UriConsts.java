@@ -1,0 +1,11 @@
+package com.example.news_feed.utils;
+
+import lombok.experimental.UtilityClass;
+
+@UtilityClass
+public class UriConsts {
+
+    public static final String API = "/api/v1";
+    public static final String NEWS = "/news";
+    public static final String COMMENTS = "/comments";
+}
